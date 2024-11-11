@@ -1,12 +1,12 @@
 [{
     "modid": "${modid}",
     "name": "${modname}",
-    "description": "An example mod for Minecraft 1.12.2 with Forge",
+    "description": "A simple mod that dumps every recipe in JEI to a json file",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "logoFile": "",
     "url": "",
-    "authorList": [],
+    "authorList": ["Mireole"],
     "credits": "",
     "dependencies": []
 }]
